@@ -2,6 +2,14 @@
 
 This is a barebones template repo built to make setup and deploying your static site to Github pages easier! The overall process is as follows: make a repo from this template, set up Node/Vitepress, and then deploy to Github pages. The steps are detailed below! You can check out an example [here](https://61040-fa23.github.io/portfolio-adamjanicki2). If you have any questions, feel free to ask on Discourse or attend studio hours.
 
+## Useful links
+
+- [Assignment 0 Handout](https://61040-fa23.github.io/assignments/assignment-0)
+- [Example Site](https://61040-fa23.github.io/portfolio-adamjanicki2)
+- [Vitepress documentation](https://vitepress.dev/)
+- [Github Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+- [Node.js documentation](https://nodejs.org/en/docs/)
+
 ## Pre-setup
 
 You will have to install [Node.js](https://nodejs.org/en/) **v18** to use this template. You can check if you have it installed by running `node -v` in your terminal. If you get an error, or see a version less than 18, you will need to install it. 6.1020 has detailed instructions, which you can find [here](https://web.mit.edu/6.031/www/sp22/getting-started/#11_install_node).
