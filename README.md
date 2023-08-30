@@ -4,7 +4,6 @@ This is a barebones template repo built to make setup and deploying your static 
 
 ## Useful links
 
-- [Assignment 0 Handout](https://61040-fa23.github.io/assignments/assignment-0)
 - [Example Site](https://61040-fa23.github.io/portfolio-adamjanicki2)
 - [Vitepress documentation](https://vitepress.dev/)
 - [Github Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
@@ -16,7 +15,7 @@ You will have to install [Node.js](https://nodejs.org/en/) **v18** to use this t
 
 ## Setup Guide
 
-1. Click the "Use this template" button to create a new repo in your account. _Note: you will receive an email saying that a workflow run was not successful. You can ignore this; we will fix this by completing the rest of the setup :smile:_
+1. Click the "Use this template" button to create a new repo in your account. _Note: you will receive an email saying that a workflow run was not successful. You can ignore this; we will fix this by completing the rest of the setup_ :smile:
 2. Clone your new repo to your local machine.
 3. `cd` into your own repo, and then run `npm install` to install the dependencies. Make sure you've correctly installed Node v18 before doing this step.
 4. Run `npx vitepress init` to create your static site directory. **Important**: when it asks you where to create the directory, make sure you enter `./docs`, otherwise you will likely have issues when deploying to GH pages later.
