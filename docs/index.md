@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Vitepress Template"
-  text: "Super sweet static site"
-  tagline: "6.1040 Fall 2023"
+  name: "TODO: Title"
+  text: "TODO: Subtitle"
+  tagline: "TODO: Tagline"
   actions:
     - theme: brand
       text: Template Repository
