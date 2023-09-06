@@ -15,7 +15,7 @@ You will have to install [Node.js](https://nodejs.org/en/) **v18** to use this t
 
 ## Setup Guide
 
-1. Create a new repo. Click the "Use this template" button to create a new repo from this template. _Note: you will receive an email saying that a workflow run was not successful. You can ignore this; we will fix this by completing the rest of the setup_ :smile:
+1. Create your repo. We'll be using Github Classroom, so visit the [assignment link](https://classroom.github.com/assignment-invitations/a8bb029c7738241e2e2fb4156736be00/status) to create your repo. _Note: you will receive an email saying that a workflow run was not successful. You can ignore this; we will fix this by completing the rest of the setup_ :smile:
 2. Clone your new repo to your local machine.
 3. `cd` into your own repo, and then run `npm install` to install the dependencies. _Make sure you've correctly installed Node v18 before doing this step._
 4. Run `npm run docs:dev` to start the development server. You should see a message with the `localhost` path where it is deployed; check it to make sure you can see your site.
