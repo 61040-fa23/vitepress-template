@@ -1,11 +1,11 @@
 # Static Site Template
 
-This is a barebones template repo built to make setup and deploying your static site to Github pages easier! The overall process is as follows: make a repo from this template, set up Node/Vitepress, and then deploy to Github pages. The steps are detailed below! You can check out an example [here](https://61040-fa23.github.io/portfolio-adamjanicki2). If you have any questions, feel free to ask on Discourse or attend studio hours.
+This is a barebones template repo built to make setup and deploying your static site to Github pages easier! The overall process is as follows: make a repo from this template, set up Node/VitePress, and then deploy to Github pages. The steps are detailed below! You can check out an example [here](https://61040-fa23.github.io/portfolio-adamjanicki2). If you have any questions, feel free to ask on Discourse or attend studio hours.
 
 ## Useful links
 
 - [Example Site](https://61040-fa23.github.io/portfolio-adamjanicki2)
-- [Vitepress documentation](https://vitepress.dev/)
+- [VitePress documentation](https://vitepress.dev/)
 - [Github Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 - [Node.js documentation](https://nodejs.org/en/docs/)
 
